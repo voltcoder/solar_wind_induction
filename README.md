@@ -9,7 +9,7 @@ so if you want to have access to it you have to ask me for password
 just to keep the track of it
 
 its a hard work of mine and my college mate afterall
-for next I will work wil updating it soon
+for next I will be updating it soon....
 
 ---
 
