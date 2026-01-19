@@ -1,7 +1,8 @@
 # solar_wind_induction
 Exploration of Electricity by Solar-Wind Tower on Expressway from Motion of Vehicles and Solar Irradiance and Its Utilization in EV Charging.
 
-** just to small note for informational purpose**
+**just a small note for informational purpose**
+
 I will be including 3 different project in this together and they will be in branches
 just so you guys can look at it clearly without any mess 
 my files will required password
