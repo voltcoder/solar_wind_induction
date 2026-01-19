@@ -1,4 +1,5 @@
 # solar_wind_induction
+ 
 Exploration of Electricity by Solar-Wind Tower on Expressway from Motion of Vehicles and Solar Irradiance and Its Utilization in EV Charging.
 
 #  Solar PV System with MPPT (P&O) Controlled DC–DC Converter
@@ -88,7 +89,7 @@ The system is developed using **MATLAB/Simulink** in **discrete-time mode**, mak
 
 ##  Author
 **Swati Sharma**  
-Electrical Engineer | EV & Renewable Energy Enthusiast  
+Electrical Engineer || EV & Renewable Energy Enthusiast ||
 
 
 ---
