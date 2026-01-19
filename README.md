@@ -17,6 +17,7 @@ The system is developed using **MATLAB/Simulink** in **discrete-time mode**, mak
 - Generates DC power based on:
   - Solar irradiance
   - Temperature
+    
 - Outputs:
   - PV Voltage (Vpv)
   - PV Current (Ipv)
@@ -80,7 +81,7 @@ The system is developed using **MATLAB/Simulink** in **discrete-time mode**, mak
 1. Open MATLAB
 2. Navigate to the project folder
 3. Open the `.slx` file
-4. Run the simulation
+4. Run the simulation.
 5. Observe waveforms for Vpv, Ipv, and output voltage
 
 ---
@@ -88,6 +89,7 @@ The system is developed using **MATLAB/Simulink** in **discrete-time mode**, mak
 ##  Author
 **Swati Sharma**  
 Electrical Engineer | EV & Renewable Energy Enthusiast  
+
 
 ---
 ⭐ If you find this project useful, feel free to star the repository!
